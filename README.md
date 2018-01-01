@@ -17,6 +17,6 @@ You might also be interested in checking out the courses we've run as well:
 ## Hackathons
 | Date Held | Workshop Name | Github Repo | Slides |
 | ------------ | ------------ | ------------ | ------------ | 
-| Oct. 7, 2017 | PyTorch | https://github.com/mlberkeley/calhacks-pytorch | N/A|
-| Feb. 23, 2017 | Intro to TensorFlow | https://github.com/mlberkeley/tensorflow-workshop-sp17 | N/A | 
+| Oct. 7, 2017 | PyTorch | https://github.com/mlberkeley/calhacks-pytorch | [Slides](https://docs.google.com/presentation/d/1EWTxY_cUCyXh99WPQZGqlLkAlQBfKFz8jK-4_Uzo1XY/edit#slide=id.g279a9472a3_0_0)|
+| Feb. 23, 2017 | Intro to TensorFlow | https://github.com/mlberkeley/tensorflow-workshop-sp17 | [Slides](https://docs.google.com/presentation/d/1EWTxY_cUCyXh99WPQZGqlLkAlQBfKFz8jK-4_Uzo1XY/edit#slide=id.g279a9472a3_0_0) | 
 | Nov. 12, 2016 | Keras | https://github.com/mlberkeley/keras_workshop | [Slides](https://docs.google.com/presentation/d/1fHjULDTWNPwR6f9-Gx-5nKHcxAtq6eO9deXOezNLbmA/edit?usp=sharing) | 
